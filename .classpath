@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies/animation-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies/forms-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies/looks-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jdic.jar"/>
+	<classpathentry kind="lib" path="lib/Swing/JavaCalendar-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/persistence/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/Swing/idw-gpl_.jar" sourcepath="C:/Users/terry/Documents/java/docking framework/infonode/idw-gpl-1.6.1/src"/>
+	<classpathentry kind="lib" path="lib/expression_evaluator/autocomplete-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/expression_evaluator/rsyntaxtextarea-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/expression_evaluator/language_support.jar"/>
+	<classpathentry kind="lib" path="lib/Swing/jfreechart-1.0.19.jar" sourcepath="C:/Users/terry/Documents/java/jfree/jfreechart-1.0.19/source"/>
+	<classpathentry kind="lib" path="lib/Swing/timingframework-swing-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/persistence/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/persistence/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/jasperreports-6.3.1.jar" sourcepath="C:/Users/terry/Documents/java/jasper soft &amp; related/jasperreport-6.3.1/jasperreports-6.3.1/src"/>
+	<classpathentry kind="lib" path="lib/jasperreport/jasperreports-chart-customizers-6.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/jasperreports-chart-themes-6.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/jasperreports-fonts-6.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/jasperreports-functions-6.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/jasperreports-javaflow-6.3.1.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/fr.opensagres.xdocreport.converter-1.0.2.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/fr.opensagres.xdocreport.core-1.0.2.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/fr.opensagres.xdocreport.document-1.0.2.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/fr.opensagres.xdocreport.document.docx-1.0.2.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/fr.opensagres.xdocreport.template-1.0.2.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/fr.opensagres.xdocreport.template.velocity-1.0.2.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="plugin/xdoc/lib/zxing/core.jar"/>
+	<classpathentry kind="lib" path="lib/Swing/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/itext-2.1.7.js5.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/spring.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/apache_poi/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreport/poi-3.10.1.jar"/>
+	<classpathentry kind="lib" path="plugin/mailbomber/commons-email-1.4.jar" sourcepath="C:/Users/terry/Documents/java/Apache/apache commons email/commons-email-1.4-src.zip"/>
+	<classpathentry kind="lib" path="plugin/mailbomber/javax.mail.jar"/>
+	<classpathentry kind="lib" path="plugin/dbtweezer/DdlUtils-1.0.jar" sourcepath="C:/Users/terry/Documents/java/db_migration_tools/apache ddlutils/DdlUtils-1.0-src.zip"/>
+	<classpathentry kind="lib" path="plugin/dbtweezer/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="plugin/mailbomber/tshef.jar"/>
+	<classpathentry kind="lib" path="plugin/mailbomber/jtidy-8.0.jar"/>
+	<classpathentry kind="lib" path="plugin/mailbomber/novaworx-syntax-0.0.7.jar"/>
+	<classpathentry kind="lib" path="plugin/mailbomber/sam.jar"/>
+	<classpathentry kind="lib" path="plugin/flicka/commons-math3-3.6.1.jar" sourcepath="C:/Users/terry/Documents/java/Apache/commons-math3-3.6.1/commons-math3-3.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/Swing/weblaf-complete-1.28.jar" sourcepath="C:/Users/terry/Documents/java/Look and feel/Web Look and Feel/weblaf-demo-1.28"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/jboss-vfs-3.2.12.Final.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/lib/tess4j-3.4.8.jar" sourcepath="C:/Users/terry/Documents/poker/tess4j/Tess4J/src"/>
+	<classpathentry kind="lib" path="plugin/hero/PokerProphesier_v1.0.0/client.jar"/>
+	<classpathentry kind="lib" path="plugin/hero/PokerProphesier_v1.0.0/simulator.jar"/>
+	<classpathentry kind="lib" path="lib/persistence/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
